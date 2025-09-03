@@ -1,0 +1,20 @@
+_____________________________________________________________________________________________________________________________________
+
+-- 03-09-2025 --
+
+Git useful commands, and differences when using VSC (as the terminal here is Powershell).
+
+Powershell commands:
+
+- ni /filename/ - ni means new-item, this command adds a file into the cd.
+
+
+Git specific commands:
+
+- git rm /filename/ - rm means remove, this command removes a file from the working tree.
+- git rm /filename/ -f - The same as rm, but -f forces the deletion of the file even if it is in the index.
+- git commit - In theory this should allow you to commit your changes in the working tree and index.
+- git merge - This will merge 2 seperate iterations of the same file into one. Can be used to resolve conflicts when multiple people
+  commit at once, or to merge to deliberately made branches.
+  
+_____________________________________________________________________________________________________________________________________
