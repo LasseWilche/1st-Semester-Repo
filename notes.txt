@@ -6,14 +6,50 @@ Git useful commands, and differences when using VSC (as the terminal here is Pow
 
 Powershell commands:
 
-- ni /filename/ - ni means new-item, this command adds a file into the cd.
+- ni /filename/ - Adds a file to the current directory.
+
+- cat /filename/ - Show the contents of a file in the terminal.
+
+- cd /directoryname/ - Changes the terminal working position to any specified directory.
+
+- cd .. - Moves the terminal working position back by one.
+
+- clear - Clears the terminal.
+
+- cli - Delete the content within an item, ergo a file, without deleting the file itself.
+
+- del - Delete a file or a directory.
+
+- diff - Compares two items, ergo files.
+
+- gps - If you want to see all the processes on your pc at any given time, for whatever reason.
+
+- mi - Moves an item from one place to another.
 
 
 Git specific commands:
 
-- git rm /filename/ - rm means remove, this command removes a file from the working tree.
+- git clone /url/ - This command is used to clone a repository onto VSC, or whatever text editor you are using, through the repositories 
+  online link.
+
+- git init - From my experience this can be used to turn any random folder on your pc into a repository.
+
+- git add /filename/ - This will add whichever file you want to the index before you can commit it. In VSC, any file is automatically 
+  indexed when you save the file, I think.
+
+- git mv /filename/ ... /destination/ - I think that's the syntax, though it might be wrong, as this is practically a useless command for VSC
+  users. Anyways, this is used to move or rename files and directories.
+
+- git restore - If you can believe it, this is used to restore files and directories.
+
+- git rm /filename/ - rm means remove, this command removes a file from the working tree. This can also be done simply from the VSC UI.
+
 - git rm /filename/ -f - The same as rm, but -f forces the deletion of the file even if it is in the index.
+
+- git branch - It make a branch!! Like literally every other git command, this can easily be done through VSC UI.
+
 - git commit - In theory this should allow you to commit your changes in the working tree and index.
+
 - git merge - This will merge 2 seperate iterations of the same file into one. Can be used to resolve conflicts when multiple people
   commit at once, or to merge to deliberately made branches.
   
