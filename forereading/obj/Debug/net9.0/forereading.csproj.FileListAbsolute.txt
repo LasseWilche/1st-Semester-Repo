@@ -1,0 +1,15 @@
+C:\Users\lasse\OneDrive\Desktop\Repositories\1st-semester-repo\forereading\obj\Debug\net9.0\forereading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasse\OneDrive\Desktop\Repositories\1st-semester-repo\forereading\obj\Debug\net9.0\forereading.AssemblyInfoInputs.cache
+C:\Users\lasse\OneDrive\Desktop\Repositories\1st-semester-repo\forereading\obj\Debug\net9.0\forereading.AssemblyInfo.cs
+C:\Users\lasse\OneDrive\Desktop\Repositories\1st-semester-repo\forereading\obj\Debug\net9.0\forereading.csproj.CoreCompileInputs.cache
+C:\Users\lasse\OneDrive\Desktop\Repositories\1st-semester-repo\forereading\obj\Debug\net9.0\forereading.sourcelink.json
+C:\Users\lasse\OneDrive\Desktop\Repositories\1st-semester-repo\forereading\bin\Debug\net9.0\forereading.exe
+C:\Users\lasse\OneDrive\Desktop\Repositories\1st-semester-repo\forereading\bin\Debug\net9.0\forereading.deps.json
+C:\Users\lasse\OneDrive\Desktop\Repositories\1st-semester-repo\forereading\bin\Debug\net9.0\forereading.runtimeconfig.json
+C:\Users\lasse\OneDrive\Desktop\Repositories\1st-semester-repo\forereading\bin\Debug\net9.0\forereading.dll
+C:\Users\lasse\OneDrive\Desktop\Repositories\1st-semester-repo\forereading\bin\Debug\net9.0\forereading.pdb
+C:\Users\lasse\OneDrive\Desktop\Repositories\1st-semester-repo\forereading\obj\Debug\net9.0\forereading.dll
+C:\Users\lasse\OneDrive\Desktop\Repositories\1st-semester-repo\forereading\obj\Debug\net9.0\refint\forereading.dll
+C:\Users\lasse\OneDrive\Desktop\Repositories\1st-semester-repo\forereading\obj\Debug\net9.0\forereading.pdb
+C:\Users\lasse\OneDrive\Desktop\Repositories\1st-semester-repo\forereading\obj\Debug\net9.0\forereading.genruntimeconfig.cache
+C:\Users\lasse\OneDrive\Desktop\Repositories\1st-semester-repo\forereading\obj\Debug\net9.0\ref\forereading.dll

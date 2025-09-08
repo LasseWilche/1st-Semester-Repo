@@ -50,7 +50,36 @@ Git specific commands:
 
 - git commit - In theory this should allow you to commit your changes in the working tree and index.
 
-- git merge - This will merge 2 seperate iterations of the same file into one. Can be used to resolve conflicts when multiple people
-  commit at once, or to merge to deliberately made branches.
+- git merge /branchname/ - This will merge 2 seperate iterations of the same file into one. Can be used to resolve conflicts when multiple people
+  commit at once, or to merge to deliberately made branches. Specifically it will merge 2 branches with seperate iterations of the same files.
   
 _____________________________________________________________________________________________________________________________________
+
+-- 08-09-2025 --
+
+## Primitive Typer
+
+  Integers - Heltal
+
+  Floating-Point Numbers - Ikke heltal
+
+  Truth values - Literally bare en sand eller falsk værdi.
+
+  Characters - Bogstaver
+
+  Variables - En måde hvorpå man kan navngive en del af sin data og definere det under en bestemt type.
+
+  Primitive typer skal sættes foran Variables for at definere hvilket datatype som Variablen skal være.
+
+## Random stuff
+
+  Datatyper er tit forholdsvist universelle.
+  Python er virkelig godt til at komme igang, men udover er det meget langsomt og uoptimalt til næsten altting. Kan dog bruges til 2d
+  spil ret effektivt.
+
+  RAM - Random Access Memory, hurtig hukommelse, kan tilgå ting når der er strøm på pc'en. Altså den er hurtig til at tilgå data imens
+  pc'en er tændt. 
+
+  Harddisk - Det er like det modsatte af RAM, den er langsom men kan huske alt eller sådan noget. Gemmer ting bits i talsystemer som
+  16bit, 32bit, 64bit.
+
